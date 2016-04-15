@@ -10,13 +10,24 @@
 <config key="column_filter">
 <entry key="filter-type" type="xstring" value="STANDARD"/>
 <config key="included_names">
-<entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xstring" value="name"/>
-<entry key="1" type="xstring" value="dist"/>
+<entry key="array-size" type="xint" value="3"/>
+<entry key="0" type="xstring" value="name_sim"/>
+<entry key="1" type="xstring" value="dist_sim"/>
+<entry key="2" type="xstring" value="cat_sim"/>
 </config>
 <config key="excluded_names">
-<entry key="array-size" type="xint" value="1"/>
-<entry key="0" type="xstring" value="y2"/>
+<entry key="array-size" type="xint" value="11"/>
+<entry key="0" type="xstring" value="dist"/>
+<entry key="1" type="xstring" value="mapmo_sim"/>
+<entry key="2" type="xstring" value="name_1"/>
+<entry key="3" type="xstring" value="name_2"/>
+<entry key="4" type="xstring" value="id_1"/>
+<entry key="5" type="xstring" value="id_2"/>
+<entry key="6" type="xstring" value="fb_cat_1"/>
+<entry key="7" type="xstring" value="fb_cat_2"/>
+<entry key="8" type="xstring" value="map_cat1"/>
+<entry key="9" type="xstring" value="map_cat2"/>
+<entry key="10" type="xstring" value="y2"/>
 </config>
 <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
 <config key="name_pattern">
@@ -71,12 +82,12 @@
 <entry key="index" type="xint" value="2"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 3, Cols: 5"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 4, Cols: 5"/>
 <entry key="port_dir_location" type="xstring" value="port_2"/>
 </config>
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="1d5197da-54c7-4063-bd29-bec58e1ba872"/>
+<entry key="file_store_id" type="xstring" value="b0618a9e-5b1c-4950-8d13-f26c43498830"/>
 </config>
 </config>

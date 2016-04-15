@@ -20,7 +20,7 @@
 <entry key="lineEndingMode" type="xstring" value="SYST"/>
 <entry key="charSet" type="xstring" isnull="true" value=""/>
 <entry key="filename" type="xstring" value="C:\Users\Philip\workspace\mapmo\evaluation\logreg_pred_true.csv"/>
-<entry key="fileOverwritePolicy" type="xstring" value="Abort"/>
+<entry key="fileOverwritePolicy" type="xstring" value="Overwrite"/>
 <entry key="skipWriteColHeaderOnAppend" type="xboolean" value="false"/>
 <entry key="commentBegin" type="xstring" value=""/>
 <entry key="commentEnd" type="xstring" value=""/>
@@ -49,6 +49,6 @@
 <config key="ports"/>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="c07ef1d2-4120-408a-9e06-d5be17b30c7f"/>
+<entry key="file_store_id" type="xstring" value="0b03ceb4-0c38-4dc1-be55-2969ee2b9022"/>
 </config>
 </config>
